@@ -1,0 +1,7 @@
+body {
+    min-height: 100vh;
+    background-color: black;
+    color: var(--main-color-cream);
+    font-family: Verdana, Arial, Geneva, sans-serif;
+    font-size: var(--main-font-basesize);
+}

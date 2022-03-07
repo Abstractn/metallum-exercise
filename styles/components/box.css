@@ -1,0 +1,12 @@
+.box {
+    background-color: var(--main-color-darkbrown);
+    border: solid var(--main-color-darkcream) 1px;
+}
+
+.box.navigation {
+    background-color: var(--main-color-brown);
+}
+
+.box.login {
+    background-color: var(--main-color-darkbrown);
+}

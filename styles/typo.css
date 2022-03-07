@@ -1,0 +1,26 @@
+.typo-heading-1 {}
+.typo-heading-2 {}
+.typo-heading-3 {}
+.typo-heading-4 {}
+.typo-heading-5 {}
+
+.typo-text-10 { font-size: 1.0rem; }
+.typo-text-11 { font-size: 1.1rem; }
+.typo-text-12 { font-size: 1.2rem; }
+.typo-text-13 { font-size: 1.3rem; }
+
+.typo-link {
+    cursor: pointer;
+    text-decoration: none;
+}
+.typo-link:hover,
+.typo-link:active {
+    text-decoration: underline;
+}
+
+.typo-uppercase { text-transform: uppercase; }
+.typo-capitalize { text-transform: capitalize; }
+.typo-lowercase { text-transform: lowercase; }
+
+.typo-red { color: var(--main-color-red); }
+.typo-lightred { color: var(--main-color-lightred); }

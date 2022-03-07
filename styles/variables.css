@@ -1,0 +1,10 @@
+:root {
+    --main-color-red: rgb(109, 63, 64);
+    --main-color-lightred: rgb(162, 120, 122);
+    --main-color-brown: rgb(19, 1, 1);
+    --main-color-darkbrown: rgb(45, 18, 18);
+    --main-color-cream: rgb(226, 216, 207);
+    --main-color-darkcream: rgb(194, 184, 175);
+
+    --main-font-basesize: 10px;
+}
