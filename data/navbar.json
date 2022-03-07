@@ -1,0 +1,60 @@
+[
+    {
+        "menuName": "Bands",
+        "submenus": [
+            {
+                "submenuName": "Alphabetical",
+                "url": "browse/alphabetical"
+            },
+            {
+                "submenuName": "Country",
+                "url": "browse/country"
+            },
+            {
+                "submenuName": "Genre",
+                "url": "browse/genre"
+            }
+        ]
+    },
+    {
+        "menuName": "Labels",
+        "submenus": [
+            {
+                "submenuName": "Alphabetical",
+                "url": "label"
+            },
+            {
+                "submenuName": "Country",
+                "url": "label/country"
+            }
+        ]
+    },
+    {
+        "menuName": "Reviews",
+        "url": "review/browse"
+    },
+    {
+        "menuName": "R.I.P.",
+        "url": "artist/rip"
+    },
+    {
+        "menuName": "Random band",
+        "function": "random"
+    },
+    {
+        "menuName": "User rankings",
+        "url": "user/list"
+    },
+    {
+        "menuName": "News archive",
+        "url": "news"
+    },
+    {
+        "menuName": "Reports",
+        "url": "report/list"
+    },
+    {
+        "menuName": "Contribute / To do",
+        "url": "todo"
+    }
+]
